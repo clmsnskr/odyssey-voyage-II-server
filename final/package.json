@@ -18,6 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@apollo/gateway": "^2.0.0-preview.8",
     "@apollo/subgraph": "^2.0.0-preview.8",
     "@prisma/client": "^3.0.2",
     "apollo-datasource": "^3.1.0",
